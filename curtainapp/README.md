@@ -1,6 +1,6 @@
 # curtainapp
 
-A new Flutter project.
+The flutter app file for automation of the curtain.
 
 ## Getting Started
 
